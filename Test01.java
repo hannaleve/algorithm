@@ -1,6 +1,6 @@
 package com.eomcs.lang.test;
 
-public class Test {
+public class Test01 {
 
   public static int countEventNumber(int value) {
     int result = 0;
